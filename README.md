@@ -11,7 +11,7 @@ Module 1 provides base CRUD, Docker Compose, and health checks.
 
 2. Start services with Docker Compose:
    ```bash
-   ddocker-compose up --build
+   docker-compose up --build
 
 3. Verify the application
    ```bash
