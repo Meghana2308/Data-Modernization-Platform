@@ -1,2 +1,9 @@
-CREATE DATABASE datamod;
--- optionally create user and tables; JPA will create tables with ddl-auto=update in dev
+DO
+$$
+BEGIN
+   IF NOT EXISTS (SELECT FROM pg_database WHERE datname = 'datamod') THEN
+      CREATE DATABASE datamod;
+END IF;
+END
+$$;
+
