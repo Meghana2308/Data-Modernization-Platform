@@ -1,0 +1,11 @@
+{
+  "customers": [
+    { "id": 1001, "name": "John Legacy", "email": "john@old.com", "phone": "99999" }
+  ],
+  "policies": [
+    { "id": 2001, "policyNumber": "L100-A", "type": "Life", "status": "ACTIVE" }
+  ],
+  "agents": [
+    { "id": 3001, "agentCode": "AG-LEG-1", "name": "Legacy Agent" }
+  ]
+}
