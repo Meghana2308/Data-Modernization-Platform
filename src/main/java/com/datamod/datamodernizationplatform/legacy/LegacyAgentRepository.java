@@ -1,7 +1,7 @@
 package com.datamod.datamodernizationplatform.legacy;
 
 
-import com.datamod.datamodernizationplatform.dto.AgentDTO;
+import com.datamod.datamodernizationplatform.dto.responce.AgentDTO;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;

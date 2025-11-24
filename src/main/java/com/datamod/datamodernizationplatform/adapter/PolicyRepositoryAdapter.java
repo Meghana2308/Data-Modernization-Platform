@@ -1,6 +1,6 @@
 package com.datamod.datamodernizationplatform.adapter;
 
-import com.datamod.datamodernizationplatform.dto.PolicyDTO;
+import com.datamod.datamodernizationplatform.dto.responce.PolicyDTO;
 import com.datamod.datamodernizationplatform.legacy.LegacyPolicyRepository;
 import com.datamod.datamodernizationplatform.model.Policy;
 import com.datamod.datamodernizationplatform.repository.PolicyRepository;
