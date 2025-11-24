@@ -1,6 +1,6 @@
 package com.datamod.datamodernizationplatform.adapter;
 
-import com.datamod.datamodernizationplatform.dto.AgentDTO;
+import com.datamod.datamodernizationplatform.dto.responce.AgentDTO;
 import com.datamod.datamodernizationplatform.legacy.LegacyAgentRepository;
 import com.datamod.datamodernizationplatform.model.Agent;
 import com.datamod.datamodernizationplatform.repository.AgentRepository;

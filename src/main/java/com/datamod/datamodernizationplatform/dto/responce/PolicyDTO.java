@@ -1,4 +1,4 @@
-package com.datamod.datamodernizationplatform.dto;
+package com.datamod.datamodernizationplatform.dto.responce;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

@@ -1,6 +1,6 @@
 package com.datamod.datamodernizationplatform.adapter;
 
-import com.datamod.datamodernizationplatform.dto.CustomerDTO;
+import com.datamod.datamodernizationplatform.dto.responce.CustomerDTO;
 import com.datamod.datamodernizationplatform.legacy.LegacyCustomerRepository;
 import com.datamod.datamodernizationplatform.model.Customer;
 import com.datamod.datamodernizationplatform.repository.CustomerRepository;

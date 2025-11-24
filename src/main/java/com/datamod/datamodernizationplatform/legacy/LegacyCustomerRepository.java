@@ -3,7 +3,7 @@ package com.datamod.datamodernizationplatform.legacy;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.datamod.datamodernizationplatform.dto.CustomerDTO;
+import com.datamod.datamodernizationplatform.dto.responce.CustomerDTO;
 import java.util.List;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Repository;

@@ -1,6 +1,6 @@
 package com.datamod.datamodernizationplatform.legacy;
 
-import com.datamod.datamodernizationplatform.dto.PolicyDTO;
+import com.datamod.datamodernizationplatform.dto.responce.PolicyDTO;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;

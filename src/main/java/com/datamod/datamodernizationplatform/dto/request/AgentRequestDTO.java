@@ -1,4 +1,4 @@
-package com.datamod.datamodernizationplatform.dto;
+package com.datamod.datamodernizationplatform.dto.request;
 
 import jakarta.validation.constraints.NotBlank;
 import lombok.Data;
